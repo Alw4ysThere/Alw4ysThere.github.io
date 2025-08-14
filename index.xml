@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish</title>
+    <title>AT的个人博客</title>
     <link>https://Alw4ysThere.github.io/</link>
-    <description>Recent content on Blowfish</description>
+    <description>Recent content on AT的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="https://Alw4ysThere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 AlwaysThere</copyright>
+    <lastBuildDate>Thu, 14 Aug 2025 21:27:42 +0800</lastBuildDate><atom:link href="https://Alw4ysThere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>需要做的事</title>
+      <link>https://Alw4ysThere.github.io/blogs/todolist/</link>
+      <pubDate>Thu, 14 Aug 2025 21:27:42 +0800</pubDate>
+      
+      <guid>https://Alw4ysThere.github.io/blogs/todolist/</guid>
+      <description>&lt;p&gt;为了更好的完成自己的博客，还需要做的事情：&lt;br&gt;
+ 界面的调试和自定义（比较广泛了）&lt;br&gt;
+ 个人的介绍&lt;br&gt;
+ 内容加密功能&lt;br&gt;
+ &lt;strong&gt;图片功能&lt;/strong&gt;&lt;br&gt;
+ 设置一个自己的域名&lt;br&gt;
+ &lt;strong&gt;加入一些新东西：&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
     
   </channel>
 </rss>

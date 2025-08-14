@@ -3,6 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://Alw4ysThere.github.io/blogs/</loc>
+    <lastmod>2025-08-14T21:27:42+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/</loc>
+    <lastmod>2025-08-14T21:27:42+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Alw4ysThere.github.io/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://Alw4ysThere.github.io/it/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://Alw4ysThere.github.io/ja/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://Alw4ysThere.github.io/"
+    />
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/blogs/todolist/</loc>
+    <lastmod>2025-08-14T21:27:42+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://Alw4ysThere.github.io/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -25,31 +63,6 @@
       rel="alternate"
       hreflang="zh-cn"
       href="https://Alw4ysThere.github.io/authors/"
-    />
-  </url>
-  <url>
-    <loc>https://Alw4ysThere.github.io/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Alw4ysThere.github.io/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://Alw4ysThere.github.io/it/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://Alw4ysThere.github.io/ja/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://Alw4ysThere.github.io/"
     />
   </url>
   <url>
