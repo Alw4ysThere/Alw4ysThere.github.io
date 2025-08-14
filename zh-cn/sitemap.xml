@@ -3,128 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://Alw4ysThere.github.io/</loc>
+    <lastmod>2025-08-14T17:51:02+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/authors/"
+      href="https://Alw4ysThere.github.io/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/authors/"
+      href="https://Alw4ysThere.github.io/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/ja/authors/"
+      href="https://Alw4ysThere.github.io/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/authors/"
+      href="https://Alw4ysThere.github.io/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://Alw4ysThere.github.io/docs/</loc>
+    <lastmod>2025-08-14T17:51:02+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/tags/docs/</loc>
+    <lastmod>2025-08-14T17:51:02+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/docs/blog/</loc>
+    <lastmod>2025-08-14T17:51:02+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/tags/</loc>
+    <lastmod>2025-08-14T17:51:02+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/"
+      href="https://Alw4ysThere.github.io/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/"
+      href="https://Alw4ysThere.github.io/it/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/ja/"
+      href="https://Alw4ysThere.github.io/ja/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/"
+      href="https://Alw4ysThere.github.io/tags/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://Alw4ysThere.github.io/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/categories/"
+      href="https://Alw4ysThere.github.io/en/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/categories/"
+      href="https://Alw4ysThere.github.io/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/ja/categories/"
+      href="https://Alw4ysThere.github.io/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/categories/"
+      href="https://Alw4ysThere.github.io/authors/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://Alw4ysThere.github.io/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/series/"
+      href="https://Alw4ysThere.github.io/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/series/"
+      href="https://Alw4ysThere.github.io/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/ja/series/"
+      href="https://Alw4ysThere.github.io/ja/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/series/"
+      href="https://Alw4ysThere.github.io/categories/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://Alw4ysThere.github.io/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/tags/"
+      href="https://Alw4ysThere.github.io/en/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/it/tags/"
+      href="https://Alw4ysThere.github.io/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/ja/tags/"
+      href="https://Alw4ysThere.github.io/ja/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/tags/"
+      href="https://Alw4ysThere.github.io/series/"
     />
   </url>
 </urlset>

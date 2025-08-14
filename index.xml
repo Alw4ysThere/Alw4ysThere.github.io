@@ -2,12 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish</title>
-    <link>http://localhost:1313/</link>
+    <link>https://Alw4ysThere.github.io/</link>
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Aug 2025 17:51:02 +0800</lastBuildDate><atom:link href="https://Alw4ysThere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MyFirstBlog</title>
+      <link>https://Alw4ysThere.github.io/docs/blog/</link>
+      <pubDate>Thu, 14 Aug 2025 17:51:02 +0800</pubDate>
+      
+      <guid>https://Alw4ysThere.github.io/docs/blog/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
+      
+    </item>
     
   </channel>
 </rss>
