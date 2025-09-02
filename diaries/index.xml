@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AT的个人博客</title>
-    <link>https://Alw4ysThere.github.io/</link>
-    <description>Recent content on AT的个人博客</description>
+    <title>AT的日记 on AT的个人博客</title>
+    <link>https://Alw4ysThere.github.io/diaries/</link>
+    <description>Recent content in AT的日记 on AT的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 AlwaysThere</copyright>
-    <lastBuildDate>Tue, 02 Sep 2025 22:41:40 +0800</lastBuildDate><atom:link href="https://Alw4ysThere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 22:41:40 +0800</lastBuildDate><atom:link href="https://Alw4ysThere.github.io/diaries/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>日记2025.9.2</title>
@@ -24,32 +24,6 @@
  吴满意居然是马院的院长，亏贼啊。声音浑厚，在讲台前面站着讲了三节课，体力充沛，我都做不到。这次旁边坐了个女生，在学习，画画，很有意思，但是没和她有任何交流，果然还是做不到吗，我就是在看电视剧，看小说，刚好，这一段还是挺有趣的，看着看着，整节课就过去了，各回各家。舍友都在上这个风险投资，我实在是没有绷住啊，看起来后面他们会成立公司，希望顺利。&lt;br&gt;
  这篇日记将会被上传到博客，主要是确实是好久没有传博客了，而且今天的事情很多，也挺重要的。辅导员发了这个和综测有关的东西，不知道最后会是个什么样子的结局呢，公平公正，还是腥风血雨，不过我觉得我应该是什么也做不到的，哈哈。目前看起来，我和同学们虽然不熟，但是也没什么过节，就是不知道在遇到利益冲突的时候，会出现什么个情况，要是他妈的遇到zzy同学那种情况，本来很高的学习成绩，嗯被挤下去，那我真的要翻脸了，但是那种情况是班干部本身就不当人的，我们这边班干部目前看起来都挺负责，人很好，私人生活不清楚，不重要，希望能够有一个好结局吧。这个东西明天中午的时候可以处理一下，仔细研究研究，不要放弃任何一分。ok，差不多就是这样，上传一下，可以收工了。&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Alw4ysThere.github.io/diaries/2025.9.2/featured.png" />
-    </item>
-    
-    <item>
-      <title>《柏子》沈从文</title>
-      <link>https://Alw4ysThere.github.io/blogs/baizi/</link>
-      <pubDate>Sun, 17 Aug 2025 16:41:36 +0800</pubDate>
-      
-      <guid>https://Alw4ysThere.github.io/blogs/baizi/</guid>
-      <description>&lt;p&gt;&lt;em&gt;柏子是正要妇人生气才欢喜的。他见妇人把脸放下，便把烟盘移到床头去。长城一去情形全变了。一分钟内局面成了新的样子。柏子的泥腿从床沿下垂，绕了这腿的上部的是用红绸作就套鞋的小脚。&lt;/em&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Alw4ysThere.github.io/blogs/baizi/featured.png" />
-    </item>
-    
-    <item>
-      <title>需要做的事</title>
-      <link>https://Alw4ysThere.github.io/blogs/todolist/</link>
-      <pubDate>Thu, 14 Aug 2025 21:27:42 +0800</pubDate>
-      
-      <guid>https://Alw4ysThere.github.io/blogs/todolist/</guid>
-      <description>&lt;p&gt;为了更好的完成自己的博客，还需要做的事情：&lt;br&gt;
- 界面的调试和自定义（比较广泛了）&lt;br&gt;
- 个人的介绍&lt;br&gt;
- 内容加密功能&lt;br&gt;
- &lt;strong&gt;图片功能&lt;/strong&gt;&lt;br&gt;
- 设置一个自己的域名&lt;br&gt;
- &lt;strong&gt;加入一些新东西：&lt;/strong&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Alw4ysThere.github.io/blogs/todolist/featured.png" />
     </item>
     
   </channel>
