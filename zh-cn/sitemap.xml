@@ -4,13 +4,13 @@
 
   <url>
     <loc>https://Alw4ysThere.github.io/blogs/</loc>
-    <lastmod>2025-09-03T22:57:40+08:00</lastmod>
+    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://Alw4ysThere.github.io/</loc>
-    <lastmod>2025-09-03T22:57:40+08:00</lastmod>
+    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,20 +35,8 @@
     />
   </url>
   <url>
-    <loc>https://Alw4ysThere.github.io/blogs/%E7%BB%BC%E8%AF%84/</loc>
-    <lastmod>2025-09-03T22:57:40+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Alw4ysThere.github.io/diaries/</loc>
-    <lastmod>2025-09-02T22:41:40+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://Alw4ysThere.github.io/tags/</loc>
-    <lastmod>2025-09-02T22:41:40+08:00</lastmod>
+    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -71,6 +59,30 @@
       hreflang="zh-cn"
       href="https://Alw4ysThere.github.io/tags/"
     />
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/tags/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/blogs/%E4%B8%80%E4%B8%80%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/blogs/%E7%BB%BC%E8%AF%84/</loc>
+    <lastmod>2025-09-03T22:57:40+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/diaries/</loc>
+    <lastmod>2025-09-02T22:41:40+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://Alw4ysThere.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
