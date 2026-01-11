@@ -3,14 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://Alw4ysThere.github.io/blogs/</loc>
-    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://Alw4ysThere.github.io/</loc>
-    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
+    <lastmod>2026-01-11T11:34:26+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,8 +29,14 @@
     />
   </url>
   <url>
+    <loc>https://Alw4ysThere.github.io/blogs/</loc>
+    <lastmod>2026-01-11T11:34:26+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://Alw4ysThere.github.io/tags/</loc>
-    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
+    <lastmod>2026-01-11T11:34:26+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -61,13 +61,25 @@
     />
   </url>
   <url>
-    <loc>https://Alw4ysThere.github.io/tags/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
+    <loc>https://Alw4ysThere.github.io/blogs/%E7%AC%AC%E4%B8%83%E5%A4%A9%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2026-01-11T11:34:26+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/tags/%E8%AF%9D%E5%89%A7%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2026-01-11T11:34:26+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://Alw4ysThere.github.io/blogs/%E4%B8%80%E4%B8%80%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2025-09-07T00:02:21+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alw4ysThere.github.io/tags/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%82%9F/</loc>
     <lastmod>2025-09-07T00:02:21+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
